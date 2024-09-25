@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/(.*)", 
+      "destination": "https://www.xing.com/profile/Sandeep_Agarkar", 
+      "statusCode": 301
+    }
+  ]
+}
