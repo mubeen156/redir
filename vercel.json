@@ -1,8 +1,8 @@
 {
   "redirects": [
     { 
-      "source": "/view-source",
-      "destination": "https://github.com/vercel/vercel", 
+      "source": "/tcds1",
+      "destination": "https://drservice.shop", 
       "statusCode": 301
     }
   ]
