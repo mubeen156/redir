@@ -5,13 +5,14 @@
       "destination": "https://drservice.shop", 
       "statusCode": 301
     }
- { 
+     
+  ]
+}
+
+{
+  "redirects": [
+    { 
       "source": "/tcds2",
-      "destination": "https://techion.shop", 
-      "statusCode": 301
-    }
-     { 
-      "source": "/tcds3",
       "destination": "https://techihub.shop", 
       "statusCode": 301
     }
