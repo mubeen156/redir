@@ -1,14 +1,19 @@
 {
   "redirects": [
     {
-      "source": "/profile",
-      "destination": "https://www.xing.com/profile/Sandeep_Agarkar",
+      "source": "/tcds1",
+      "destination": "https://drservice.shop",
       "statusCode": 301
     },
     {
-      "source": "/contact",
-      "destination": "https://example.com/contact-page",
+      "source": "/tcds2",
+      "destination": "https://techihub.shop",
       "statusCode": 301
-    }
+    },
+    {
+      "source": "/tcds3",
+      "destination": "https://techion.shop",
+      "statusCode": 301
+    },
   ]
 }
