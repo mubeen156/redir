@@ -1,11 +1,9 @@
 {
   "redirects": [
-  
-{
-      "source": "/12345",
-      "destination": "https://drservice.shop",
+    { 
+      "source": "/view-source",
+      "destination": "https://github.com/vercel/vercel", 
       "statusCode": 301
     }
-    
   ]
 }
