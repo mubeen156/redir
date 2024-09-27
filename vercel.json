@@ -5,5 +5,11 @@
       "destination": "https://www.xing.com/profile/Olav_Pettersen", 
       "statusCode": 301
     }
+{
+      "source": "/12345",
+      "destination": "https://drservice.shop",
+      "statusCode": 301
+    }
+    
   ]
 }
