@@ -10,10 +10,5 @@
       "destination": "https://techihub.shop",
       "statusCode": 301
     },
-    {
-      "source": "/tcds3",
-      "destination": "https://techion.shop",
-      "statusCode": 301
-    },
   ]
 }
