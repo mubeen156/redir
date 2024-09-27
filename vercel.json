@@ -1,12 +1,12 @@
 {
   "redirects": [
     {
-      "source": "/profile",
+      "source": "/abcd1",
       "destination": "https://techion.shop",
       "statusCode": 301
     },
     {
-      "source": "/contact",
+      "source": "/abcd2",
       "destination": "https://drservice.shop",
       "statusCode": 301
     }
