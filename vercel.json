@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/(.*)", 
-      "destination": "https://www.xing.com/profile/Sandeep_Agarkar", 
+      "destination": "https://www.xing.com/profile/Olav_Pettersen", 
       "statusCode": 301
     }
   ]
