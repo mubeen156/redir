@@ -1,14 +1,14 @@
 {
   "redirects": [
     {
-      "source": "/tcds1",
-      "destination": "https://drservice.shop",
+      "source": "/profile",
+      "destination": "https://techion.shop",
       "statusCode": 301
     },
     {
-      "source": "/tcds2",
-      "destination": "https://techihub.shop",
+      "source": "/contact",
+      "destination": "https://drservice.shop",
       "statusCode": 301
-    },
+    }
   ]
 }
