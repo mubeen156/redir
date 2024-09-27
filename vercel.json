@@ -9,6 +9,10 @@
       "source": "/abcd2",
       "destination": "https://drservice.shop",
       "statusCode": 301
-    }
+    },
+     {
+      "source": "/abcd3",
+      "destination": "https://techihub.shop",
+      "statusCode": 301
   ]
 }
