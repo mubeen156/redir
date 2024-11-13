@@ -2,17 +2,17 @@
   "redirects": [
     {
       "source": "/abcd1",
-      "destination": "https://techion.shop",
+      "destination": "https://acixgn.shop",
       "statusCode": 301
     },
     {
       "source": "/abcd2",
-      "destination": "https://drservice.shop",
+      "destination": "https://diekmg.shop",
       "statusCode": 301
     },
      {
       "source": "/abcd3",
-      "destination": "https://www.xing.com/profile/Olav_Pettersen/",
+      "destination": "ekumoy.shop",
       "statusCode": 301
      }
   ]
