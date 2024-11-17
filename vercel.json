@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/abcd1",
-      "destination": "substance3d.adobe.com/community-assets/profile/org.adobe.user:C7711D6666F2F9B50A495E38@AdobeID",
+      "destination": "http://adccd.com",
       "statusCode": 301
     },
     {
