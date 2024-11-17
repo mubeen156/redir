@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/abcd1",
+      "destination": "https://abcd.com",
+      "statusCode": 301
+    },
+    {
+      "source": "/abcd2",
+      "destination": "https://ttyf.com",
+      "statusCode": 301
+    },
+     {
+      "source": "/abcd3",
+      "destination": "https://qq.com",
+      "statusCode": 301
+     }
+  ]
+}
